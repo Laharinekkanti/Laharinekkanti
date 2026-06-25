@@ -19,13 +19,13 @@
 ## 🧠 About Me
 
 ```python
-lahari = {
+Lahari = {
     "name"       : "Lahari Nekkanti",
     "role"       : "Aspiring Data Scientist & ML Engineer",
     "education"  : "B.E. CSE Graduate — Shree Devi Institute of Technology (VTU)",
     "internship" : "Data Science Intern @ QSpiders, Bangalore",
     "goal"       : "DS / ML Engineer at a top MNC or Product Company",
-    "interests"  : ["Machine Learning", "Deep Learning", "Data Analysis", "AI"],
+    "interests"  : ["Machine Learning", "Data Analysis", "AI"],
     "fun_fact"   : "I teach machines to see, think, and recommend 🤖"
 }
 ```
